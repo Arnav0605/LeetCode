@@ -11,7 +11,3 @@ class Solution:
             hash[index] -=1
 
         return hash == [0] *26
-        if hash==0:
-            return True
-        else:
-            return False
