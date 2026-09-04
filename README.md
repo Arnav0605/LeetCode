@@ -27,8 +27,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Arnav0605/LeetCode/tree/master/0053-maximum-subarray) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0053-maximum-subarray](https://github.com/Arnav0605/LeetCode/tree/master/0053-maximum-subarray) |
-<!---LeetCode Topics End-->
+
